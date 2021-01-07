@@ -1,0 +1,2 @@
+# harshad
+Finds harshad numbers
